@@ -33,9 +33,9 @@ The solution enables early detection of unusual behavior at smaller train statio
 
 ## Install
 
-There is no installation required.
 The App-Mockup was done with Lovable:
 https://preview--station-sentinel-dispatch-board.lovable.app/
+The Source Code für the HTML is in ./src/app
 
-The Data Joining and Mining code is provided.
+The Data Joining and Mining code is provided in ./src/data
 
